@@ -1,0 +1,6 @@
+[package]
+name = "one_a"
+version = "0.1.0"
+authors = ["Bartosz Nowak <sztosz@gmail.com>"]
+
+[dependencies]
